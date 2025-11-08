@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# WowAddOnStudio Solution File, Format Version 11.00
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E6E1D386-69D8-4755-9E61-0950293915FC}") = "PriestShieldTracker", "PriestShieldTracker.wowproj", "{99020A6E-B8E8-4509-A615-6FCBA81AB1C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99020A6E-B8E8-4509-A615-6FCBA81AB1C1}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{99020A6E-B8E8-4509-A615-6FCBA81AB1C1}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86DDFF8A-9305-4D80-901C-72C9FBE47C64}
+	EndGlobalSection
+EndGlobal

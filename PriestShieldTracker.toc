@@ -1,7 +1,0 @@
-## Title: Priest Shield Tracker
-## Version: 1.0
-## Author: Bogarne
-## SavedVariables: SavedVariables
-## Interface: 11507
-
-Frame.xml
